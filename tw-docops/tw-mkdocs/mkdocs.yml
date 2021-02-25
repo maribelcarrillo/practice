@@ -2,6 +2,9 @@ site_name: Wizeline MkDocs Template
 nav:
   - Home: index.md
   - About: about.md
+  - Silvia: silvia.md
+  - Toribio: toribio.md
+  - Overview: Overview.md
 
 theme:
   name: material
