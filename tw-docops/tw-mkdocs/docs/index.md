@@ -6,18 +6,7 @@ Welcome to the DocOps Template
 
 ## Adding Information to the Page
 
-Use Markdown to add information to the pages of your site.
-
-For example, here is a list:
-
-1.  Item 1
-2.  Item 2
-3.  Item 3
-
-Here is another list:
-
-* Another item
-* Another item
+This is whatever I want to show
 
 ## Adding a New Page
 
